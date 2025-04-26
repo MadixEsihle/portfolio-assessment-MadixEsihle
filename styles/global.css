@@ -19,38 +19,43 @@
   title {
     display: flex;
     justify-content: center;
-    color: azure;
-    font-weight: bolder;
-    font-size: large;
+    color:goldenrod;
+    font-size: 5em;
+    font-family: lucida handwriting;
+    font-style: italic;
+    text-shadow: 2px 2px 4px gold;
+    
+  }
+  
+  section>div>h2 {
+    justify-content: center;
+    color: brown;
   }
 
   div>h2 {
     display: flex;
-    justify-content: right;
-    text-transform: lowercase;
+    justify-content: center;
     font-size: medium;
   
   }
+
 
   section>h3 {
     display: flex;
     justify-content: center;
     text-decoration: underline;
+    color: brown;
+    
     
   }
-  h4 {
-    display: flex;
-    justify-content: center;
-  }
-
-
+ 
  body {
-  background-color: rgba(154, 136, 233, 0.747) ;
+  background-color: rgb(248, 242, 224);
   
  }
 
 main {
-  color: rgb(0, 0, 0);
+  color: rgb(221, 172, 81);
 }
 
 p {
@@ -58,41 +63,38 @@ p {
   justify-content: center;
   
 }
-
+  
 section>header {
   display: flex;
   justify-content: center;
+  color: brown;
   text-decoration: underline;
+  
 }
 
 ul>li {
   display: flex;
   justify-content: center;
+
 }
 
-section>header {
+.rectangle {
+  width: 500px;
+  height: fit-content;
+  background-color: rgb(236, 206, 129);
+  border: 15px white;
+  padding: 20px;
+  margin: auto;
+  
+}
+
+#Wellness-spa-image {
+  display: flex;
+  justify-content: center;
+
+}
+
+#Gallery>div {
   display: flex;
   justify-content: center;
 }
-
-.box {
-  width: 550px;
-  height: 220px;
-  background-color: rgb(255, 254, 253);
-  border: 1px blueviolet;
-  padding: 15px;
-  margin: 0px auto;
-  padding-top: 5px;
-  justify-content: right;
-   
-}
-
-section>div>img {
-  animation-direction: normal;
-  animation-duration: 5s;
-  position: relative;
-  animation-iteration-count: infinite;
-}
-
-
-
