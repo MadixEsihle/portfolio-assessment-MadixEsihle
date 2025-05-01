@@ -88,3 +88,9 @@ Pulling updates prevents **errors** and keeps everything **up-to-date**! 🚀
 
 
 🚀 **View the project here**: [https://shytypes.github.io/portfolio-assessment-MadixEsihle/](https://shytypes.github.io/portfolio-assessment-MadixEsihle/)
+
+
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-green?logo=github)](https://MadixEsihle.github.io/portfolio-assessment-MadixEsihle/)
+
+
+🚀 **View the project here**: [https://MadixEsihle.github.io/portfolio-assessment-MadixEsihle/](https://MadixEsihle.github.io/portfolio-assessment-MadixEsihle/)
